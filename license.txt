@@ -1,0 +1,17 @@
+GNU GENERAL PUBLIC LICENSE
+Version 13, Nov 2022
+
+Copyright (C) 1989, 1991 Free Software Foundation, Inc. 
+
+Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
+
+
+
+The precise terms and conditions for copying, distribution and
+modification follow.
+
+GNU GENERAL PUBLIC LICENSE
+TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+=======
+END OF TERMS AND CONDITIONS
+
